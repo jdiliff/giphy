@@ -1,0 +1,54 @@
+body {
+    font-size: 25px; 
+    font-family: Special Elite; 
+    margin: 25px; 
+  
+}
+
+#animal-text {
+    background: darkgray; 
+    border: solid 2px gray; 
+    border-radius: 10px; 
+    color: white; 
+    font-family: Special Elite;
+    font-size: 25px; 
+    margin-top: 20px; 
+    padding: 10px; 
+    
+   
+}
+
+
+#animal-input {
+    padding: 10px; 
+    margin: 25px;
+    font-size: 20px; 
+    font-family: Special Elite;
+    
+ 
+}
+
+button {
+    background: lightcyan;
+    border: darkgray; 
+    width: 100px; 
+    height: 30px; 
+    font-size: 15px; 
+    margin: 10 10 30 10;
+    border-radius: 5px; 
+    font-family: Special Elite;
+
+}
+
+.container {
+    background: lightgray; 
+    padding:20px; 
+    text-align: center; 
+    width: 980px; 
+    margin-left: 20%; 
+
+}
+ 
+/* #animal-text {
+    height: 25px; 
+} */
